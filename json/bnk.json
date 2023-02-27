@@ -99,7 +99,7 @@
     ],
     "ads": {
       "chosen_ad": 1,
-      "intl_ad_frequency": 4,
+      "intl_ad_frequency": 10,
       "bnr_ad_unit_id": "",
       "intl_ad_unit_id": ""
     }
