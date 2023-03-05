@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "data": {
+    "categories": [
+      {
+        "name": "Aesthetic",
+        "wallpapers": [
+          "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Tz_zzfJeF2kTpx_mzQTjDwy-I2KJvG19bHd2utzRTOI3W51Q5oTHTuk6klQEpSbOzPg_DFgAKzj9OzeOUKL7S_FdW8srbadxA61XPuitQ7bv4XRFtYXubJd3fF_0WzsbxSf1RCqvX0hNOD82Y9uwr79dfq5NhQf1HHNREnMU2FiI2tekshv5gKL0eQ/s1280/1.jpg",
+          "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN8c8kGHXdcgd1_grygkXLz0tg8lgs1cqcmFfOnM_a3H9gYbd9ZKMfldtPUd5fJzYcY874TrZvz9IrIcraET_lSg5xX-9WT2BXxumyZ3y6K2TRDS5sA2gOLvKBWoupJG6NilISt2-5vhzhb1TzNsD5tSk-vb7ziKbiM8oEo4NFHOhCwCDrlVVylpD1_g/s1280/2.jpg",
+          "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5gpCGhPCFybY7vEybZ6h24z5ANPyOnGpk1yIzD146d97Qkuj_tTzUPmTrzz4Xg-aivcg5md4jBoiMZMWkUmedJuJO-XczHLVkIqqSG6mejEsrkL4kEC569k5i41rdH6RlEaBle1H5zU-7j81JB66lvqAQK9HBQLm7QeRwy7BxmrAQgEYnSeI8jzJMew/s1280/3.jpg",
+          "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQNXdtBIi1cg1mhH4H8QGmLH0GUbLdakajy41VuIRF1H-6OCM1m4clmRKxaOR22-0TLMtHtGzO8majiDSfxdHlgsz-p9o3ImqF1CTS8dv9ZomkhrCbgeRGTqDIN8rKzfojS_1YO5DK5h8ZlylXqE4n6QICrVE5sieN166O3oXMC93nb001v3Ht8dJlRg/s667/4.jpg",
+          "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOLgz-G-9Ouj2_nzq-K0d9mTZ5pdQfqfzGdsw2JkclsAzbt-rzIDacXlG22kVcoDNRuuobxank3cjlMDxTK3QpamrNEKemUO6sHUUGlQk40dmqpC00JRAYMYXNd4ANUb0DWGuMzZ7oHr0Onk8nJE6wUz45Xa83UjAHFW_5ueNiL-Ku3SI4vFjTAF8W3g/s960/5.jpg",
+          "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5m0Pl5MsNT8Z0ZX6I2KVHrbMFRR91mIt9GWueiK60WyxNhIVRv9LmbXqrvJUc_5TShkBKQPHlQQYdLMwWB_4RHwwcttegZRAZcEtaNLH3PZ_zsAXor7Ex1KL_hkTVwwBMHJLbp4RnBHA-Iuh1MelcqoYMndoQ3uKuEkk0JGd1zIN34EcXWEBg3PbM2w/s800/6.jpg",
+          "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXr9yH7ySJ20yZIocGE2jYiLHHxnKIDygRv5KuRfY02bwOecC0IUj6ciEYDllsdmyG2tKtd3gD7iRfHnaQWmSdKPfdDYTJZ1tPnf6DEmluwf6vSPEd5-p110EyNliUbe6KwClsCqdSqG-lXnTNcbdT7XJnEcQ9_j8QDn8qhbrclqOE_JoTYdM8dCxgzg/s1200/7.jpg",
+          "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpauUl3tttsBXmRPCIXuHQDZI-eQ2zU7Y8xv-ZJq66_W5ph7je-mIB3anDL1VlfaftUAVhNagUpn6Y_GiX175SsqFPL9GH8sj1GJWQU-Rjy3Xg4GbSyORRpYr3gwVQHKXwu6UI-HexfEWALtkH1_ISANktzJQPWW0fXdQtNxDblFmjHVonKPJRUXz2ug/s675/8.jpg",
+          "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_u17R-yaeggQ6GNaOKIbOCL6J_owmSvC5jMIY-el8BdIoo3ePCwtANYt67nOFiKYMNNgACZLQQRS0RlUn5x7R06hu2nLC6dYSk5GlUg48sSznqpiZF46e9K_5_7friv0Wy-67rb2-CRiVmrJZy6HTeU2z09X5veX9ZDxtHHlxH8VPGy2Q6XFyvhxZLA/s842/9.jpg",
+          "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzU4oiJs-uqL-N9sWPw0EcNG_AmC5Cdn6wt5Czz0m7hTPSlWkZuIzCPNTfdkOWCV6WSHEIDDZvvRBa0yA5x2Okmq6d5Xi3lntvDUsMw8_3Ga-TyYeqUCiPQB0Dmq4aW0P1zdC518xeuAOUUpy4WaARoRlqv0zodpRwYlusM_fKj6lLuT4tucYVJItqKw/s640/10.jpg",
+          "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9jAT36YPts48VN5YasZkN4XTKieGm4jh_AOiatWG1blayqH4wPin4wgaM0UB8uxQTSAJqDHDAqDvk0xB62Cse-hCBiBuquODs9NuemPVj0t7R1SWxMDrrNYnlHVauAEsdcWH2gIkLj9aGqHnc4NDh_ZQJJ95tW1sWFgdlvJE4-_IAI78roAdS77svoA/s599/11.jpg",
+          "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZBZa_yPAKyH6cwnRb1RZFK_n4HZuHNZmBbXPz0dcN-2_aAi2ieKLlc4nEVm7zVgCUUa9jdCAeraA4WzOMgRTjm5rOK88iBf_zrfIHKHNICP0R5ShOT9Ylor4ePSHKNtHiow_pIWt1CuS5QXkq_CxNZUMFp-gPuvgjSHwqbWLF6BEQPf4Y2o4XnJQkMw/s1253/12.jpg",
+          "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0UFla0i9Pa8dBizbkzV3NtJSelYixbM9KFYa_niG8_XYy9cVdlC_TN6_9ELUCD58vHM7_E407W8D2Jr4KrBhG-_R9BQd9_HmWc8iX2P0nBPWiwgB-aRQ-KXNdJDeEAwJRPIN-j85JmA4PMl3mXKLMYudAuqb3hWknIHtRdueONWwjrcK2w1C5dc6F1g/s564/13.jpg",
+          "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpn2vgoDkspKqp8XzmH-P36cv8IuGxsZcGXQUahSPO9TOpu9XvGZHxNW9lRJdZHEPcDjbw_AfULl5NO76WUsBeZU2DCjZXBae1Flk3X9MSYOoqWwTCUh43O8lB1TJExPAThXVW4QLxt8J6qOjhAPSjXOQa3jwGtM_0PTRvpSadL_jXDPDp4pxyGV2aUA/s705/14.jpg",
+          "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis6oO6pWAc-f5uDktd5Wokt3paPQVsldCLpXMG9s_HhcpF1utNCvgHqxg5sNNSsFvh1BvGnybbWoKstG5J7iRq6oyMo4ti-DcYRuCqBONwwwLmpeq2c_o7r43JlNoRDfr6SpwozxMdzpuWfSYUTIVKOSZ0DLSIzhHNISDsDQ3IWCuTpSCAUZmXOeKDug/s564/15.jpg",
+          "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqSyf7DpJZCEDPez5TtjhnzuoTP92_yQac-gKXuhLTUVPm0AdZM3AlvS_7PJb5_T5OPfWYEM0uTzUeRlTKFQ1gTKnPvKACyUJHLHcQFSEXfgbbMiFMKjBwDm_U5y9PyxxZcSXlg6144PJN5nWW4ikAeJGsmUFXh8fWvhKtwxaOGbqIoBwdUnBvAu6ToQ/s1334/16.jpg",
+          "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEM9QymRWYr4ydD4V_4z82f0oH8r3fse5Fbq3PpHebRRzm7sWW8KmwyqLEjjJL9bzNxuF5B24t2S8Osvbz5-bbpdqUpcm9uKRVJZnOnb3exZA0wibynCkZF6O0zvA4J7sN_5c1oeIIaCgVfbO-xJJc9nUK-vev403TdrlKzYakbs0LQ0kOI1lcyN2pxg/s705/17.jpg",
+          "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjetDJswdgtGs2E0tLmGV8J3gyH3QJRTGf7p0L_OUI35HQ2P_P6PPGGSKjfqs1QR_Qm4bpKM8hDbNHsPdzhPUgl9w3_V9388CbmH8LGRUzIg2IFHjE9XyMjByZ9bvhILzZ8xY8f-KmKHgSBwenkRx_Z3CXwa8AZ2xAitWUHaIBlU0zd3SBNnIoy0wSEyQ/s599/18.jpg",
+          "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih1EyyTUl8S5xwuOuZZOAeVzjA4fdusJKA8VM-ElCHBVoMya0EwyypDxuLJPRtfv4Nq7OeSxaJINPYrQG__Kq2wa1npOWg-gofS8MqgrogNfmBXnighFkbuS7YPOItCSi-SFDVMPPuNeTgHr_7gcTR39_8SJUWBZySeflrwZBPPmr2DNgXjFC61NC-4w/s1200/19.jpg",
+          "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ_xXzyHybhk13n5kOjItDNjaHB5klofubWhI_lnQ6S9RZRcPe5PDENla1U-mPOKCkPozA-EDzxTD0Ywq5ulrd4D5v5U70Smn7xfsu2NNTpbFD_JKtlLb3zZjAGUnClo2oiew5RfI2fxhYRwgbftR1Suq6jKs8kScRjq1SP5eLmVXPCqgZRiywle_xpw/s564/20.jpg",
+          "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS0DCgEDNNAYzsHIoHmPkhajsYPez2uOTHcNUJW4VhFVx-HcFsv-OKwgrhY_9kgulJv5sIMFGoDXWvrNgdx-z5ro3Er2Mk3IQNBh4arQrpldAwDK9LQJCGPPQwrhXPEOLRXEVfAQSnitHWKLCJXL_KQUWG3in9BUVqlX2aoG9xRjj83Y6nq0NE5P3ueg/s1052/21.jpg",
+          "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfFn4RSARtcjL5RYpmUO8ge7sHND9nOcRfnJ_XuJ09MAYHnt1MCRR39aN4fcIXd2HPMf_9QvmizIzeDdr_e58vdmgTYO-h-AN2ovq91mlO2geseaQWSmjuE3hXZD-oCpNom3ljsx8G4z9BBri6wRywd5lfXytjR93tAVAepFJQeXUH28TyhF9cR-tl_A/s1264/22.jpg",
+          "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3ehqMvNZHOh8EkQZ6oYatETYFsUNmZXOiX6DZ5Bsl_XZDiJlyHflFvufc-Ybe94PyXeD15JCJ9ledvc2ybPBm9rz4hgMWh4JlOUChq8y-aNCNUL0dFeQ4t9UwL_3mFdM8xKiCsJVzOYaApG1nCSz5BpYX9oU5B57OH7Cu7LXVmoSRl786GU8WJmMjDw/s917/23.jpg",
+          "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPMltCk_mRvnXbG5I9HliJW6zRqJXlZmIx2lTXQiJEDPvckcH1s-0EnuEFa50RPzsBiJ5iGb1P3C5U0nBfmjE_5jiF4Vs610az5QuyreMcvzF8YsA9-FYwjmBgKnlaaOPgE8P2i9OPZ_O7dsQyU4HAOQZGoAC8i3Ci1Wv9iOvBMmATT4CucszF_WxpWg/s937/24.jpg",
+          "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuAzpy0PqDJvrRpxm88ogpWKk4rgfs__i99JaIbZi01rPTDDZ32d1rhYeprOXfQsbVJCjMMrtxu-XJGk4inWaxBQ4VJ0wcRplZmfa4ZmDxjOhLDfOQ2oiZQADuoH2yCGBDVwW7IorZRIeLwJ1KKzUMSiKw5saYxZa5yiPdA65djL_m0Sy_XK8UJSOA4A/s919/25.jpg"
+        ]
+      }
+    ],
+    "popular": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuAzpy0PqDJvrRpxm88ogpWKk4rgfs__i99JaIbZi01rPTDDZ32d1rhYeprOXfQsbVJCjMMrtxu-XJGk4inWaxBQ4VJ0wcRplZmfa4ZmDxjOhLDfOQ2oiZQADuoH2yCGBDVwW7IorZRIeLwJ1KKzUMSiKw5saYxZa5yiPdA65djL_m0Sy_XK8UJSOA4A/s919/25.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih1EyyTUl8S5xwuOuZZOAeVzjA4fdusJKA8VM-ElCHBVoMya0EwyypDxuLJPRtfv4Nq7OeSxaJINPYrQG__Kq2wa1npOWg-gofS8MqgrogNfmBXnighFkbuS7YPOItCSi-SFDVMPPuNeTgHr_7gcTR39_8SJUWBZySeflrwZBPPmr2DNgXjFC61NC-4w/s1200/19.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZBZa_yPAKyH6cwnRb1RZFK_n4HZuHNZmBbXPz0dcN-2_aAi2ieKLlc4nEVm7zVgCUUa9jdCAeraA4WzOMgRTjm5rOK88iBf_zrfIHKHNICP0R5ShOT9Ylor4ePSHKNtHiow_pIWt1CuS5QXkq_CxNZUMFp-gPuvgjSHwqbWLF6BEQPf4Y2o4XnJQkMw/s1253/12.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9jAT36YPts48VN5YasZkN4XTKieGm4jh_AOiatWG1blayqH4wPin4wgaM0UB8uxQTSAJqDHDAqDvk0xB62Cse-hCBiBuquODs9NuemPVj0t7R1SWxMDrrNYnlHVauAEsdcWH2gIkLj9aGqHnc4NDh_ZQJJ95tW1sWFgdlvJE4-_IAI78roAdS77svoA/s599/11.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXr9yH7ySJ20yZIocGE2jYiLHHxnKIDygRv5KuRfY02bwOecC0IUj6ciEYDllsdmyG2tKtd3gD7iRfHnaQWmSdKPfdDYTJZ1tPnf6DEmluwf6vSPEd5-p110EyNliUbe6KwClsCqdSqG-lXnTNcbdT7XJnEcQ9_j8QDn8qhbrclqOE_JoTYdM8dCxgzg/s1200/7.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzU4oiJs-uqL-N9sWPw0EcNG_AmC5Cdn6wt5Czz0m7hTPSlWkZuIzCPNTfdkOWCV6WSHEIDDZvvRBa0yA5x2Okmq6d5Xi3lntvDUsMw8_3Ga-TyYeqUCiPQB0Dmq4aW0P1zdC518xeuAOUUpy4WaARoRlqv0zodpRwYlusM_fKj6lLuT4tucYVJItqKw/s640/10.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpauUl3tttsBXmRPCIXuHQDZI-eQ2zU7Y8xv-ZJq66_W5ph7je-mIB3anDL1VlfaftUAVhNagUpn6Y_GiX175SsqFPL9GH8sj1GJWQU-Rjy3Xg4GbSyORRpYr3gwVQHKXwu6UI-HexfEWALtkH1_ISANktzJQPWW0fXdQtNxDblFmjHVonKPJRUXz2ug/s675/8.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Tz_zzfJeF2kTpx_mzQTjDwy-I2KJvG19bHd2utzRTOI3W51Q5oTHTuk6klQEpSbOzPg_DFgAKzj9OzeOUKL7S_FdW8srbadxA61XPuitQ7bv4XRFtYXubJd3fF_0WzsbxSf1RCqvX0hNOD82Y9uwr79dfq5NhQf1HHNREnMU2FiI2tekshv5gKL0eQ/s1280/1.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN8c8kGHXdcgd1_grygkXLz0tg8lgs1cqcmFfOnM_a3H9gYbd9ZKMfldtPUd5fJzYcY874TrZvz9IrIcraET_lSg5xX-9WT2BXxumyZ3y6K2TRDS5sA2gOLvKBWoupJG6NilISt2-5vhzhb1TzNsD5tSk-vb7ziKbiM8oEo4NFHOhCwCDrlVVylpD1_g/s1280/2.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOLgz-G-9Ouj2_nzq-K0d9mTZ5pdQfqfzGdsw2JkclsAzbt-rzIDacXlG22kVcoDNRuuobxank3cjlMDxTK3QpamrNEKemUO6sHUUGlQk40dmqpC00JRAYMYXNd4ANUb0DWGuMzZ7oHr0Onk8nJE6wUz45Xa83UjAHFW_5ueNiL-Ku3SI4vFjTAF8W3g/s960/5.jpg"
+    ],
+    "more_apps": [
+      {
+        "name": "Timnas Indonesia",
+        "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKCQ4N-c4ipuG3x_WYRQ-LnvIKwFR2_K0F2APYBR4lHM9wcL3RdD_Us89bLWUVAz4nyn6K31o69egUGynU3No2oC40s2NA00pwun4GMVn6HbBCPD5M7Z0DRXsXA6L_Nr3kgM61Wi-332LavybxS97LUBlXfnOwXfq-mn25dv8vUO94U0bENu9vKLG9ew/s512/ic.png",
+        "url": "market://details?id=id.untad.timnas.garuda"
+      },
+      {
+        "name": "Bonek Mania: Jam & Wallpaper",
+        "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhstUlaogYJdRj5Rddvpj-JtKCGHkTogaDv4ZU55xraESG6LBoWlL_DSoS8jauROHtR_Vr6CqG1zC74nUStMcrQ4YTB9Ui3AIHW_HiieXTcAM7n2pZliZNcgVJyl_F7Cc2pFRgoAjYOt-jgFa7fd3mXC3mmqcjsQ1fHqcR8h-bCJ1xnlJLZK3aFmbgqYQ/s512/play_store_512.png",
+        "url": "market://details?id=id.untad.bonek.mania"
+      },
+      {
+        "name": "Bobotoh Viking: Jam & Wallpaper",
+        "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL3nRkuev0Yjj0FUcvvhAaZ80HYleqAVeFm4kxAsAwFI1CYthNGiCHHLXmgxOoSUv-0CuV11j4Y0DzPplZmxiKj92NFYrZ1Dt-DcTev3wkeohwaWpL0V8z3KnjLxuKXgtLA7NCzlhjCmmFyv90_XbB2VoiUEQDR_fZLo47HT1llB-sishF0n_6pPCX5w/s512/play_store_512.png",
+        "url": "market://details?id=id.untad.bobotoh.viking"
+      },
+      {
+        "name": "Muhammad Clock",
+        "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJXDtHz9PBspoYJ0pZ64HmKuXiZo5MazRqYpn5XpVTQ7VQNQrGiZqN070NzcGrG8f1rJjHc56tFHr1Eky6H4wDxwxqKH5cC0DsntVkvkj7IjwpvnjyUsL2aGbPb4jL4fEJW-1CELe9Bu6j8gtLyHEFTG9WA1MG7WwqGtKrnt219faKCvyGEUrlc3SsMQ/s512/play_store_512.png",
+        "url": "market://details?id=id.untad.muhammad.clock"
+      }
+    ],
+    "ads": {
+      "chosen_ad": 1,
+      "intl_ad_frequency": 4,
+      "bnr_ad_unit_id": "",
+      "intl_ad_unit_id": ""
+    }
+  },
+  "message": null
+}
